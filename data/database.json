@@ -255,15 +255,15 @@
       "modifiedAt": "2020-05-21T22:40:28.910Z"
     },
     {
-      "id": "YCvzjFjKo",
-      "uuid": "6c5e39c6-36a1-40fd-acc2-584593e55020",
+      "id": "JlaU9oE5L",
+      "uuid": "bfea8d07-cf2b-42e0-b94a-b37abc6b81d4",
       "userId": "t45AiwidW",
       "bankName": "RRamirez Test Bank Account",
       "accountNumber": "777777777",
       "routingNumber": "555555555",
       "isDeleted": true,
-      "createdAt": "2023-05-23T00:52:23.437Z",
-      "modifiedAt": "2023-05-23T00:52:23.437Z"
+      "createdAt": "2023-05-23T02:40:18.337Z",
+      "modifiedAt": "2023-05-23T02:40:18.337Z"
     }
   ],
   "transactions": [

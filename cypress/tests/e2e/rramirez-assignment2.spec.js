@@ -5,7 +5,7 @@ describe('Real World app tests', () => {
         cy.get('#username').clear().type('Katharina_Bernier')
         cy.get('#password').clear().type('s3cret')
         cy.get('.MuiButton-label').click()
-       /cy.get('h6[data-test="sidenav-username"]').should('have.text', '@Katharina_Bernier')
+        cy.get('h6[data-test="sidenav-username"]').should('have.text', '@Katharina_Bernier')
     })
 
     it ('Creates a Bank Account and delete it', () => {
